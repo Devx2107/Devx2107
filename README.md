@@ -90,8 +90,8 @@ Set up the WakaTime Action above — it'll replace this block automatically.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devx2107&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devx2107&layout=compact&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Devx2107&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Devx2107&layout=compact&theme=radical&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
@@ -103,7 +103,7 @@ Set up the WakaTime Action above — it'll replace this block automatically.
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Devx2107&theme=radical&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Devx2107&theme=radical&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -154,14 +154,6 @@ Set up the WakaTime Action above — it'll replace this block automatically.
 </p>
 
 ---
-
-### 🌍 Visitor Counter
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Devx2107.Devx2107" alt="visitor counter"/>
-</p>
-
-> _Note: geographic "visitor map" pin services have mostly gone dead/unreliable, so this is a real working visit counter instead — it just increments a number rather than pinning locations._
 
 ---
 
