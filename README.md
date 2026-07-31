@@ -78,12 +78,11 @@ Set up the WakaTime Action above — it'll replace this block automatically.
 
 ### 🎧 Now Playing
 
-<!--
-  🎧 Now Playing — no plug-and-play URL exists for this, it needs your own Spotify auth.
-  1. Go to https://spotify-github-profile.kittinanx.com
-  2. Click "Connect with Spotify" and grant permission
-  3. It'll hand you a ready-made <img> markdown tag with your unique uid — paste that here.
--->
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=315ubqjtwqgnr4onlvadruwezme4&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=315ubqjtwqgnr4onlvadruwezme4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
 
 ---
 
