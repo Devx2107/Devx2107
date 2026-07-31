@@ -99,25 +99,6 @@ Set up the WakaTime Action above — it'll replace this block automatically.
 
 ---
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Devx2107&theme=radical&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-### 🥇 GitHub Achievements
-
-<!--
-  🥇 GitHub Achievements — these live natively on your profile (Pull Shark, Galaxy Brain, etc.),
-  no widget needed. If you want a visual here too, take a screenshot of your achievements
-  section on your profile page and upload it to the repo, then reference it like:
-  <img src="./achievements.png" alt="achievements"/>
--->
-
----
-
 ### 🐍 Contribution Snake
 
 <p align="center">
@@ -126,17 +107,37 @@ Set up the WakaTime Action above — it'll replace this block automatically.
 
 ---
 
-### 🚧 Featured Projects
-
-<!-- PLACEHOLDER — project cards go here -->
-> _Coming soon..._
-
 ---
 
 ### ✍️ Latest Blog Posts
 
+<!--
+  ✍️ Latest Blog Posts — auto-pulled from your Blogger RSS feed via a GitHub Action.
+  Setup:
+  1. Create .github/workflows/blog-post-workflow.yml with:
+
+  name: Latest blog post workflow
+  on:
+    schedule:
+      - cron: "0 */6 * * *"
+    workflow_dispatch:
+  jobs:
+    update-readme-with-blog:
+      runs-on: ubuntu-latest
+      permissions:
+        contents: write
+      steps:
+        - uses: actions/checkout@v3
+        - uses: gautamkrishnar/blog-post-workflow@master
+          with:
+            feed_list: "https://devtech03.blogspot.com/feeds/posts/default?alt=rss"
+
+  2. Commit it, run it once (Actions tab → Run workflow)
+  3. It'll auto-fill the list between the BLOG-POST-LIST markers below on its own — no manual edits needed after that
+-->
+
 <!-- BLOG-POST-LIST:START -->
-- PLACEHOLDER — wire up `gautamkrishnar/blog-post-workflow` to auto-pull from dev.to / Hashnode / Medium RSS
+- Set up the Action above — it'll replace this line automatically with your latest posts
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -167,7 +168,6 @@ PLACEHOLDER — drop an ASCII art, a joke API embed, or a random fact widget her
 
 <p align="center">
   <a href="YOUR_SPONSOR_URL"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/></a>
-  <a href="YOUR_BUYMEACOFFEE_URL"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/></a>
 </p>
 
 ---
