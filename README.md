@@ -107,8 +107,6 @@ Set up the WakaTime Action above — it'll replace this block automatically.
 
 ---
 
----
-
 ### ✍️ Latest Blog Posts
 
 <!--
@@ -156,9 +154,9 @@ Set up the WakaTime Action above — it'll replace this block automatically.
 <summary>🥚 Click for a surprise</summary>
 <br>
 
-```
-PLACEHOLDER — drop an ASCII art, a joke API embed, or a random fact widget here
-```
+<p align="center">
+  <img src="https://media1.tenor.com/m/gfGZS7f_YDYAAAAC/captain-america-salute.gif" alt="surprise"/>
+</p>
 
 </details>
 
