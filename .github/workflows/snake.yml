@@ -15,9 +15,9 @@ jobs:
     steps:
       - uses: Platane/snk/svg-only@v5
         with:
-          github_user_name: Devx2107
-          outputs: |
-                  dist/snake-anim.svg
+            github_user_name: Devx2107
+            outputs: |
+              dist/github-contribution-grid-snake.svg
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
