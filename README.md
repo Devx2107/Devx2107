@@ -102,7 +102,7 @@ Set up the WakaTime Action above — it'll replace this block automatically.
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Devx2107/Devx2107/output/github-contribution-grid-snake.svg?v=1" alt="snake animation"/>
+  <img src="https://cdn.jsdelivr.net/gh/Devx2107/Devx2107@output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
