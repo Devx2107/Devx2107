@@ -17,7 +17,7 @@ jobs:
         with:
           github_user_name: Devx2107
           outputs: |
-            dist/github-contribution-grid-snake.svg
+                  dist/snake-anim.svg
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
