@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+YOUR_NAME;Full-Stack+Developer;Competitive+Programmer;Building+Cool+Sh*t+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+DevX;Full-Stack+Developer;Competitive+Programmer;Building+Cool+Sh*t+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://your-banner-image-link-here.gif" width="100%" alt="banner placeholder"/>
+  <img src="https://media1.tenor.com/m/xDcsvAlaZwYAAAAC/iron-man-eating.gif" width="100%" alt="banner"/>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-terminal-git.vercel.app/api?username=YOUR_USERNAME&mode=fun" alt="terminal placeholder"/>
+  <img src="https://readme-terminal-git.vercel.app/api?username=Devx2107&mode=fun" alt="terminal placeholder"/>
 </p>
 
 ---
@@ -33,24 +33,12 @@
 ### ⚡ About Me
 
 ```yaml
-name: YOUR_NAME
+name: DevX
 role: Full-Stack Dev | CP Enthusiast | IoT Tinkerer
 current_focus: PLACEHOLDER
 currently_learning: PLACEHOLDER
 fun_fact: PLACEHOLDER
 ```
-
----
-
-### 🎯 Currently Grinding
-
-```
-CP Practice        ████████████████░░░░  80%   PLACEHOLDER
-SentinelAI Phase 2  ██████████░░░░░░░░░░  50%   PLACEHOLDER
-Core CS Subjects    ██████░░░░░░░░░░░░░░  30%   PLACEHOLDER
-```
-
-> _Update the bars manually, or swap in a progress-bar generator like_ `https://progress-bar.dev/{percent}` _if you want it dynamic._
 
 ---
 
@@ -84,7 +72,7 @@ PLACEHOLDER — connect the wakatime-readme GitHub Action to auto-fill this box
 ### 🎧 Now Playing
 
 <p align="center">
-  <img src="https://novatorem-YOUR_USERNAME.vercel.app/api/spotify" alt="spotify now playing placeholder"/>
+  <img src="https://novatorem-Devx2107.vercel.app/api/spotify" alt="spotify now playing placeholder"/>
 </p>
 
 ---
@@ -92,12 +80,12 @@ PLACEHOLDER — connect the wakatime-readme GitHub Action to auto-fill this box
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Devx2107&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devx2107&layout=compact&theme=radical&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devx2107&theme=radical&hide_border=true" width="60%"/>
 </p>
 
 ---
@@ -105,7 +93,7 @@ PLACEHOLDER — connect the wakatime-readme GitHub Action to auto-fill this box
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Devx2107&theme=radical&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -146,7 +134,7 @@ PLACEHOLDER — connect the wakatime-readme GitHub Action to auto-fill this box
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devx2107&theme=react-dark&hide_border=true" width="90%"/>
 </p>
 
 ---
@@ -181,7 +169,7 @@ PLACEHOLDER — drop an ASCII art, a joke API embed, or a random fact widget her
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00D9FF" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Devx2107&style=for-the-badge&color=00D9FF" alt="profile views"/>
 </p>
 
 <p align="center"><i>PLACEHOLDER_TAGLINE</i></p>
