@@ -1,4 +1,5 @@
 name: Generate Snake
+
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -6,21 +7,26 @@ on:
   push:
     branches: [main]
 
+permissions:
+  contents: write
+
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - name: Generate snake svg
+        uses: Platane/snk@v3
         with:
-            github_user_name: Devx2107
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
+          github_user_name: Devx2107
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          force_orphan: true
