@@ -60,9 +60,17 @@ role: Full-Stack Dev | CP Enthusiast | IoT Tinkerer
 
 ### ⏱️ Weekly Coding Time (WakaTime)
 
+<!--
+  This box only fills itself in after setup — it's not a broken link, it's just plain text
+  until then. Setup:
+  1. Create a free account at https://wakatime.com and install the plugin for your editor
+  2. Copy the workflow from https://github.com/athul/waka-readme (or waka-readme-stats for more detail)
+  3. Add WAKATIME_API_KEY as a repo secret, drop the workflow in .github/workflows/
+  4. It'll auto-edit this file between START_SECTION/END_SECTION markers below on a schedule
+-->
 <!--START_SECTION:waka-->
 ```txt
-PLACEHOLDER — connect the wakatime-readme GitHub Action to auto-fill this box
+Set up the WakaTime Action above — it'll replace this block automatically.
 ```
 <!--END_SECTION:waka-->
 
@@ -70,9 +78,12 @@ PLACEHOLDER — connect the wakatime-readme GitHub Action to auto-fill this box
 
 ### 🎧 Now Playing
 
-<p align="center">
-  <img src="https://novatorem-Devx2107.vercel.app/api/spotify" alt="spotify now playing placeholder"/>
-</p>
+<!--
+  🎧 Now Playing — no plug-and-play URL exists for this, it needs your own Spotify auth.
+  1. Go to https://spotify-github-profile.kittinanx.com
+  2. Click "Connect with Spotify" and grant permission
+  3. It'll hand you a ready-made <img> markdown tag with your unique uid — paste that here.
+-->
 
 ---
 
@@ -99,19 +110,25 @@ PLACEHOLDER — connect the wakatime-readme GitHub Action to auto-fill this box
 
 ### 🥇 GitHub Achievements
 
-<p align="center">
-  <img src="PLACEHOLDER_ACHIEVEMENTS_IMAGE_URL" alt="achievements placeholder"/>
-</p>
-
-> _GitHub's native achievement badges (Pull Shark, Galaxy Brain, etc.) live on your profile automatically — this slot is for a screenshot/collage if you want to show them off up top._
+<!--
+  🥇 GitHub Achievements — these live natively on your profile (Pull Shark, Galaxy Brain, etc.),
+  no widget needed. If you want a visual here too, take a screenshot of your achievements
+  section on your profile page and upload it to the repo, then reference it like:
+  <img src="./achievements.png" alt="achievements"/>
+-->
 
 ---
 
 ### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="PLACEHOLDER_SNAKE_SVG_URL" alt="snake animation placeholder"/>
-</p>
+<!--
+  🐍 Contribution Snake — this only works after a GitHub Action runs in YOUR repo, there's
+  no shared public URL for it. Setup:
+  1. Copy the workflow from https://github.com/Platane/snk#-example (snake.yml)
+  2. Drop it in .github/workflows/ in this repo, commit, let the Action run once
+  3. It generates github-contribution-grid-snake.svg on an "output" branch — then reference:
+     <img src="https://raw.githubusercontent.com/Devx2107/Devx2107/output/github-contribution-grid-snake.svg"/>
+-->
 
 ---
 
@@ -138,11 +155,13 @@ PLACEHOLDER — connect the wakatime-readme GitHub Action to auto-fill this box
 
 ---
 
-### 🌍 Visitor Map
+### 🌍 Visitor Counter
 
 <p align="center">
-  <img src="PLACEHOLDER_VISITOR_MAP_URL" alt="visitor map placeholder"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Devx2107.Devx2107" alt="visitor counter"/>
 </p>
+
+> _Note: geographic "visitor map" pin services have mostly gone dead/unreliable, so this is a real working visit counter instead — it just increments a number rather than pinning locations._
 
 ---
 
