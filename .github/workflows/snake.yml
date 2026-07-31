@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - uses: Platane/snk/svg-only@v5
+      - uses: Platane/snk/svg-only@v3
         with:
             github_user_name: Devx2107
             outputs: |
