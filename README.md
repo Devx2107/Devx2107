@@ -120,14 +120,9 @@ Set up the WakaTime Action above — it'll replace this block automatically.
 
 ### 🐍 Contribution Snake
 
-<!--
-  🐍 Contribution Snake — this only works after a GitHub Action runs in YOUR repo, there's
-  no shared public URL for it. Setup:
-  1. Copy the workflow from https://github.com/Platane/snk#-example (snake.yml)
-  2. Drop it in .github/workflows/ in this repo, commit, let the Action run once
-  3. It generates github-contribution-grid-snake.svg on an "output" branch — then reference:
-     <img src="https://raw.githubusercontent.com/Devx2107/Devx2107/output/github-contribution-grid-snake.svg"/>
--->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Devx2107/Devx2107/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
 ---
 
