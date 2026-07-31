@@ -107,36 +107,11 @@ Set up the WakaTime Action above — it'll replace this block automatically.
 
 ---
 
-### ✍️ Latest Blog Posts
+### ✍️ Blog
 
-<!--
-  ✍️ Latest Blog Posts — auto-pulled from your Blogger RSS feed via a GitHub Action.
-  Setup:
-  1. Create .github/workflows/blog-post-workflow.yml with:
-
-  name: Latest blog post workflow
-  on:
-    schedule:
-      - cron: "0 */6 * * *"
-    workflow_dispatch:
-  jobs:
-    update-readme-with-blog:
-      runs-on: ubuntu-latest
-      permissions:
-        contents: write
-      steps:
-        - uses: actions/checkout@v3
-        - uses: gautamkrishnar/blog-post-workflow@master
-          with:
-            feed_list: "https://devtech03.blogspot.com/feeds/posts/default?alt=rss"
-
-  2. Commit it, run it once (Actions tab → Run workflow)
-  3. It'll auto-fill the list between the BLOG-POST-LIST markers below on its own — no manual edits needed after that
--->
-
-<!-- BLOG-POST-LIST:START -->
-- Set up the Action above — it'll replace this line automatically with your latest posts
-<!-- BLOG-POST-LIST:END -->
+<p align="center">
+  <a href="https://devtech03.blogspot.com/">📝 Check out my latest posts on Blogger</a>
+</p>
 
 ---
 
@@ -145,8 +120,6 @@ Set up the WakaTime Action above — it'll replace this block automatically.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devx2107&theme=react-dark&hide_border=true" width="90%"/>
 </p>
-
----
 
 ---
 
