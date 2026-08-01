@@ -69,9 +69,11 @@ role: Full-Stack Dev | CP Enthusiast | IoT Tinkerer
   4. It'll auto-edit this file between START_SECTION/END_SECTION markers below on a schedule
 -->
 <!--START_SECTION:waka-->
+
 ```txt
-Set up the WakaTime Action above — it'll replace this block automatically.
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 ---
