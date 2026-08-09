@@ -71,7 +71,11 @@ role: Full-Stack Dev | CP Enthusiast | IoT Tinkerer
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Git          24 mins               █████████▒░░░░░░░░░░░░░░░   37.60 %
+JSON         9 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.85 %
+Git Config   9 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 %
+TypeScript   8 mins                ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
+Prisma       6 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
 ```
 
 <!--END_SECTION:waka-->
