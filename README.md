@@ -71,11 +71,11 @@ role: Full-Stack Dev | CP Enthusiast | IoT Tinkerer
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     2 hrs 21 mins         ██████████████░░░░░░░░░░░   55.65 %
-TypeScript   52 mins               █████▒░░░░░░░░░░░░░░░░░░░   20.73 %
-Git          24 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
-JSON         9 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-Git Config   9 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+Markdown     2 hrs 18 mins         ██████████████████▒░░░░░░   73.24 %
+TypeScript   44 mins               ██████░░░░░░░░░░░░░░░░░░░   23.59 %
+CSS          5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+SQL          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Git          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
