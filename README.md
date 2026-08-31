@@ -71,8 +71,9 @@ role: Full-Stack Dev | CP Enthusiast | IoT Tinkerer
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   4 mins                ████████████████▒░░░░░░░░   65.72 %
-Markdown     2 mins                ████████▓░░░░░░░░░░░░░░░░   34.28 %
+C++     26 mins               ████████████████░░░░░░░░░   63.64 %
+Text    14 mins               ████████▓░░░░░░░░░░░░░░░░   34.92 %
+Other   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
