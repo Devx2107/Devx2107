@@ -71,7 +71,11 @@ role: Full-Stack Dev | CP Enthusiast | IoT Tinkerer
 <!--START_SECTION:waka-->
 
 ```txt
-Other   0 secs                █████████████████████████   100.00 %
+Git Config   1 hr 1 min            ██████████▓░░░░░░░░░░░░░░   42.04 %
+Markdown     43 mins               ███████▒░░░░░░░░░░░░░░░░░   29.74 %
+Python       17 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.22 %
+Git          14 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+YAML         8 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
 ```
 
 <!--END_SECTION:waka-->
