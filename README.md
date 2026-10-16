@@ -71,11 +71,11 @@ role: Full-Stack Dev | CP Enthusiast | IoT Tinkerer
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 hrs 58 mins         █████████████▓░░░░░░░░░░░   54.54 %
-TypeScript   35 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
-Markdown     35 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
-C++          32 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
-Python       18 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+JavaScript   4 hrs                 ██████████████▒░░░░░░░░░░   57.08 %
+TypeScript   40 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
+Markdown     40 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
+C++          32 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
+Python       31 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
 ```
 
 <!--END_SECTION:waka-->
